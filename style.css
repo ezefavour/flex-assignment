@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.gcontainer{
+  border: 1px solid black;
+  padding: 40px;
+  margin: 20px;
+}
+.gcontainer .cover{
+    display: flex;
+}
+.gcontainer .cover .box1{
+    border: 3px solid green;
+}
+/* .box1 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  background-image: url(./cr7\ -\ Copy.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 3px solid red;
+}
+.box2 {
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  flex: 1;
+  padding: 10px;
+  border: 3px solid green;
+}
+
+
+.box3 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin-left: 10px;
+  background-image: url(./cr7\ -\ Copy.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 3px solid red;
+} */
+/* .hero{
+    border: 1px solid black;
+  display: flex;
+  padding: 40px;
+  margin: 20px;
+}
+.sub{
+    border: 1px solid black;
+  display: flex;
+  padding: 40px;
+  margin: 20px;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-left: 10px;
+    flex: 1;
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-left: 10px;
+    flex: 1;
+    
+    
+}
+.box5{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-left: 10px;
+    
+}
+.box6{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-left: 10px;
+    flex: 1;
+} */
